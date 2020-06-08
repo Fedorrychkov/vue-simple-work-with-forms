@@ -1,4 +1,5 @@
-# simple-forms-example
+# Простая работа с формами своими руками (Vue.js)
+По всем вопросам можете создавать [Issues](https://github.com/Fedorrychkov/vue-simple-work-with-forms/issues). Буду стараться отвечать на все возникшие вопросы, в рамках своих компетенций.
 
 ## Project setup
 ```
